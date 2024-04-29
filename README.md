@@ -1,7 +1,7 @@
 # PixieCraft
 # Video Demo
 
-![PixieCraft](https://github.com/betmig/Betmigs-Snooker-App/blob/main/snooker-748753_640.jpg)
+![PixieCraft](https://github.com/betmig/PixieCraft/blob/main/PixieCraft.png?raw=true)
 # [Demo Video](https://youtu.be/loTkCG9rGt8)
 
 # #  Interactive Image Processing Application
