@@ -5,7 +5,7 @@
 # [Demo Video](https://youtu.be/loTkCG9rGt8)
 
 # #  Interactive Image Processing Application
-      -   This interactive image processing application allows users to explore various image processing techniques in real-time using their webcam. It provides a graphical user interface (GUI) for adjusting parameters and visualizing the effects of different image processing algorithms.
+      This interactive image processing application allows users to explore various image processing techniques in real-time using their webcam. It provides a graphical user interface (GUI) for adjusting parameters and visualizing the effects of different image processing algorithms.
 
 ## Features
       Live Webcam Stream: View live video feed from your webcam directly within the application.
