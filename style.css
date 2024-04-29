@@ -1,16 +1,16 @@
 @font-face {
   font-family: 'Pacifico';
-  src: url("./fonts/Pacifico-Regular.ttf");
+  src: url("./Pacifico-Regular.ttf");
 }
 
 @font-face {
   font-family: 'Single Day';
-  src: url("./fonts/SingleDay-Regular.ttf");
+  src: url("./SingleDay-Regular.ttf");
 }
 
 @font-face {
   font-family: 'Material Symbols Outlined';
-  src: url("./fonts/MaterialSymbolsOutlined.ttf");
+  src: url("./MaterialSymbolsOutlined.ttf");
 }
 
 .material-symbols-outlined {
