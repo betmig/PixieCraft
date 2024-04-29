@@ -31,15 +31,17 @@
       Converts the color image to grayscale using optimized luma calculation.
 
 ## Channel Splitting
-      Splits the image into its RGB channels, allowing users to visualize the individual color channels separately.
+      Splits the image into its RGB channels, allowing users
+      to visualize the individual color channels separately.
 
 ## Segmentation
       Segment the image based on user-defined thresholds for each color channel,
       enabling selective highlighting or suppression of features.
 
 ## Color Space Conversion (RGB to HSV and YCbCr)
-      Converts the RGB color space to HSV (Hue, Saturation, Value) and YCbCr color space,
-      offering insights into color distribution and intensity.
+      Converts the RGB color space to HSV (Hue, Saturation, Value)
+      and YCbCr color space, offering insights into
+      color distribution and intensity.
 
 ## High-Contrast Grayscale Filtering
       Applies a high-contrast filter to the grayscale image,
