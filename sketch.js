@@ -361,7 +361,7 @@ let shooterSound;
 
 function preload() {
   // Load the shooter sound file
-  shooterSound = loadSound('./sounds/sound-effect-twinklesparkle-115095.mp3');
+  shooterSound = loadSound('./sound-effect-twinklesparkle-115095.mp3');
 }
 
 
