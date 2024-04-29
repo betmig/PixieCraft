@@ -11,22 +11,33 @@
       image processing algorithms.
 
 ## Features
-      Live Webcam Stream: View live video feed from your webcam
+      Live Webcam Stream:
+      View live video feed from your webcam
       directly within the application.
-      Real-time Processing: Apply image processing algorithms to the live
+      
+      Real-time Processing:
+      Apply image processing algorithms to the live
       video stream and see the results instantly.
-      Multiple Processing Options: Choose from a variety of image processing
+      
+      Multiple Processing Options:
+      Choose from a variety of image processing
       techniques, including grayscale conversion, channel splitting, segmentation,
       color space conversion (RGB to HSV and YCbCr), high-contrast
       grayscale filtering, blur filtering, and more.
-      Interactive Controls: Use sliders to adjust parameters and thresholds
+      
+      Interactive Controls:
+      Use sliders to adjust parameters and thresholds
       for segmentation and filtering algorithms.
-      Face Detection: Detect and highlight faces in the
-      video stream using ML5.js Face API.
-      Fun Filters: Apply fun filters like pixelation and decorations to detected faces
+      
+      Face Detection:
+      Detect and highlight faces in the
+      video stream using ML5.js Face API (AI/ML).
+      
+      Fun Filters:
+      Apply fun filters like pixelation and decorations to detected faces
       for an entertaining experience.
 
-##Image Processing Techniques
+## Image Processing Techniques
       Grayscale Conversion
       Converts the color image to grayscale using optimized luma calculation.
 
